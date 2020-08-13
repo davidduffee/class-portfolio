@@ -1,0 +1,244 @@
+html {
+    background-color: #EB5757;
+    color: #f2f2f2;
+}
+.navigation {
+    display: flex;
+    float: center;
+    align-items: row;
+    justify-content: space-evenly;
+  }
+  .Me, .about-me, .my-work, .resume {
+      float: right;
+      font-family: helvetica;
+    font-weight: lighter;
+      font-size: 40px;
+      margin-top: 110px;
+  }
+h1 {
+    font-family: helvetica;
+    font-weight: lighter;
+    font-size: 90px;
+    font-weight: 25;
+    float: left;
+    align-items: row;
+    justify-content: space-around;
+    align-items: left;
+  }
+.BeLocal {
+      display: block;
+      margin-bottom: 140px;
+  }
+  .BeLocal img {
+      float: right;
+      height: 809px;
+      width: 674px;
+      margin-top: none;
+  }
+h2 {
+    font-family: helvetica regular;
+    font-size: 88px;
+    float: inline-start;
+    align-items: center;
+    text-align: center;
+    margin-bottom: none;
+    margin-left: 48%;
+  }
+h3 {
+    font-family: helvetica;
+    font-weight: normal;
+    font-size: 30px;
+    float: inline-start;
+    align-items: center;
+    text-align: center;
+    margin-left: 47%;
+  }
+h4 {
+    font-family: helvetica;
+    font-weight: lighter;
+    font-stretch: semi-expanded;
+    font-size: 40px;
+    display: flex;
+    justify-content: row;
+    text-align: center;
+    align-items: left;
+    margin-top: 340px;
+  }
+.jessica-quote {
+      display: block;
+  }
+.jessica-quote h5 {
+    font-family: helvetica regular;
+    font-size: 88px;
+    display: flex;
+    align-items: row;
+    justify-content: flex-start;
+    margin-bottom: none;
+  }
+.jessica-quote p {
+    font-family: helvetica light;
+    font-size: 40px;
+    display: block;
+    justify-content: row;
+    text-align: center;
+    align-items: left;
+  }
+h6 {
+    font-family: helvetica light;
+    font-style: italic;
+    font-size: 29px;
+    display: block;
+    justify-content: row;
+    text-align: center;
+    align-items: left;
+  }
+.jessica-quote img {
+    margin-top: none;
+    float: left;
+    width: 988px;
+    height: 709px;
+  }
+.jeremiah {
+    display: block;
+}
+.jeremiah h5 {
+    font-family: helvetica;
+    font-size: 88px;
+    display: block;
+    align-items: row;
+    text-align: right;
+    justify-content: row;
+    margin-bottom: none;
+    padding-left: 50%;
+    padding-right: 20px;
+}
+.jeremiah h6 {
+    font-family: helvetica;
+    font-style: lighter;
+    font-size: 40px;
+    display: block;
+    justify-content: row;
+    text-align: center;
+    align-items: left;
+    margin-top: none;
+    margin-bottom: none;
+}
+.jeremiah img {
+    float: left;
+    height: 650px;
+    width: 650px;
+    margin-left: 20px;
+}
+.jeremiah p {
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 40px;
+    padding-top: 250px;
+    padding-left: 690px;
+    padding-right: 20px;
+    display: block;
+    justify-content: row;
+    align-items: flex-end;
+  }
+ .jess {
+      display: block;
+  }
+  .jess img {
+  float: right;
+    height: 650px;
+    width: 650px;
+    margin-right: 20px;
+  }
+.jess p {
+    font-family: helvetica;
+    font-style: italic;
+    font-size: 40px;
+    padding-top: 250px;
+    padding-right: 690px;
+    padding-left: 20px;
+    display: block;
+    justify-content: row;
+    align-items: flex-start;
+  }
+.pie-chart img {
+    margin-top: 30px;
+    display: block;
+    float: left;
+    width: 900px;
+    height: 700px;
+    margin-left: -20px;
+}
+.pie-chart p {
+    font-family: helvetica;
+    font-weight: lighter;
+    font-size: 40px;
+    padding-top: 350px;
+    justify-content: row;
+    text-align: center;
+    align-items: left;
+   margin-right: 20px;
+}
+.the-problem {
+    display: block;
+}
+.the-problem img {
+    margin-top: none;
+    float: right;
+    width: 910px;
+    height: 612px;
+}
+.the-problem p {
+    font-family: helvetica;
+    font-weight: lighter;
+    font-size: 40px;
+    padding-top: 250px;
+    padding-right: 690px;
+    padding-left: 20px;
+    text-align: center;
+    display: block;
+    justify-content: row;
+    align-items: flex-start;
+    padding-right: 940px;
+}
+.the-problem h5 {
+    font-family: helvetica;
+    font-size: 88px;
+    display: flex;
+    float: left;
+    margin-right: 1840px;
+    margin-left: 20px;
+    align-items: row;
+    justify-content: flex-end;
+    margin-bottom: none;
+}
+.the-solution {
+    display: block;
+}
+.the-solution img {
+    float: left;
+    width: 910px;
+    height: 612px;
+}
+.the-solution h5 {
+    font-family: helvetica;
+    font-size: 88px;
+    float: right;
+    margin-left: 1840px;
+    margin-right: 20px;
+    justify-content: row;
+    margin-bottom: none;
+
+}
+.the-solution p {
+    font-family: helvetica;
+    font-weight: lighter;
+    font-size: 40px;
+    padding-top: 590px;
+    padding-right: 690px;
+    padding-left: 940px;
+    text-align: center;
+    display: block;
+    justify-content: row;
+    align-items: flex-start;
+    padding-right: 20px;
+}
