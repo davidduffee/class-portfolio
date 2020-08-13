@@ -73,7 +73,7 @@ h4 {
     display: flex;
     align-items: row;
     justify-content: flex-start;
-    margin-bottom: none;
+    margin-bottom: 2px;
   }
 .jessica-quote p {
     font-family: helvetica light;
@@ -108,7 +108,7 @@ h6 {
     align-items: row;
     text-align: right;
     justify-content: row;
-    margin-bottom: none;
+    margin-bottom: 20px;
     padding-left: 50%;
     padding-right: 20px;
 }
@@ -207,13 +207,15 @@ h6 {
     float: left;
     margin-right: 1840px;
     margin-left: 20px;
+    margin-bottom: 40px;
     align-items: row;
     justify-content: flex-end;
     margin-bottom: none;
 }
 .the-solution {
-    display: block;
-}
+   display: block;
+   margin-bottom: 140px;
+  }
 .the-solution img {
     float: left;
     width: 910px;
@@ -225,6 +227,7 @@ h6 {
     float: right;
     margin-left: 1840px;
     margin-right: 20px;
+    margin-bottom: 40px;
     justify-content: row;
     margin-bottom: none;
 
@@ -241,4 +244,151 @@ h6 {
     justify-content: row;
     align-items: flex-start;
     padding-right: 20px;
+}
+.the-story {
+  display: block;
+  float: left;
+  justify-content: space-around;
+  margin-left: 50px;
+}
+.the-story h5 {
+  border-color: #f2f2f2;
+  border-width: thick;
+  border: #f2f2f2;
+  font-family: helvetica;
+    font-size: 88px;
+    display: flex;
+    float: left;
+    margin-right: 1840px;
+    margin-left: 20px;
+    margin-bottom: 2px;
+    align-items: row;
+    justify-content: flex-end;
+    margin-bottom: none;
+}
+.the-story img {
+  width: 436px;
+  height: 519px;
+}
+.the-story4 {
+  display: block;
+  float: left;
+  justify-content: space-around;
+  margin-left: 50px;
+}
+.the-story4 img {
+  width: 436px;
+  height: 519px;
+}
+.journey {
+  display: block;
+}
+.journey h5 {
+  font-family: helvetica;
+    font-size: 88px;
+    float: right;
+    margin-left: 1840px;
+    margin-right: 20px;
+    margin-bottom: 2px;
+    justify-content: row;
+    margin-bottom: 2px;
+}
+.journey img {
+  width: 1380px;
+  margin-left: 15px;
+}
+.frames {
+  display: block;
+  float: left;
+  justify-content: space-around;
+  margin-left: 70px;
+}
+.frames h5 {
+  font-family: helvetica;
+    font-size: 88px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 1840px;
+    margin-bottom: 2px;
+    justify-content: space-between;
+    margin-bottom: 2px;
+}
+.frames img {
+  align-items: space-around;
+  width: 314px;
+  height: 746px;
+}
+.frames2 {
+  margin-bottom: 70px;
+  display: block;
+  float: left;
+  justify-content: space-around;
+  margin-left: 70px;
+}
+.frames2 img {
+  align-items: space-around;
+  width: 314px;
+  height: 746px;
+}
+.wires {
+  background-color: white;
+  display: block;
+  float: left;
+  justify-content: space-around;
+  padding-top: 80px;
+  padding-left: 70px;
+  padding-right: 71px;
+
+}
+.wires img {
+  align-items: space-around;
+  width: 314px;
+  height: 746px;
+}
+.wires2 {
+  background-color: white;
+  display: block;
+  float: left;
+  justify-content: space-around;
+  padding-bottom: 70px;
+  padding-left: 70px;
+  padding-right: 71px;
+}
+.wires2 img {
+  align-items: space-around;
+  width: 314px;
+  height: 746px;
+}
+.matrix {
+  display: block;
+}
+.matrix h5 {
+  font-family: helvetica;
+    font-size: 88px;
+    float: right;
+    margin-left: 1840px;
+    margin-right: 20px;
+    margin-bottom: 100px;
+    justify-content: space-between;
+    margin-bottom: 2px;
+}
+.matrix img {
+  align-items: center;
+  margin-left: 110px;
+  margin-right: 20px;
+}
+.final h5 {
+  font-family: helvetica;
+    font-size: 88px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 1840px;
+    margin-bottom: 100px;
+    justify-content: space-between;
+    margin-bottom: 2px;
+}
+.final img {
+  align-items: center;
+  width: 1380px;
+  margin-left: 15px;
 }
